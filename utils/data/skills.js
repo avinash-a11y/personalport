@@ -10,7 +10,5 @@ export const skillsData = [
   "Bootstrap",
   "Docker",
   "Figma",
-  "Redux",
-  "Tailwind CSS",
   "Wordpress",
 ];
