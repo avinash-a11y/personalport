@@ -1,12 +1,11 @@
 // @flow strict
-import 
 import * as React from 'react';
 
 function ProjectCard({ project }) {
 
   return (
     <div onClick = {()=> {
-      window.location.href  = project.demo
+     window.open(project.demo, '_blank')
     }}className="from-[#0d1224] border-[#1b2c68a0] relative rounded-lg border bg-gradient-to-r to-[#0a0d37] w-full">
       <div className="flex flex-row">
         <div className="h-[1px] w-full bg-gradient-to-r from-transparent via-pink-500 to-violet-600"></div>
