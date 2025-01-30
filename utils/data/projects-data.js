@@ -28,25 +28,25 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "Full Stack Ecommerce site",
+    name: "Full Stack Ecommerce Rental site",
     description: "Builded a full stack ecommerce site using Wordpress and Php.",
     tools: ["Html", "Css", "Javascript", "Php", "Wordpress"],
     code: "",
     role: "Full Stack Developer",
-    demo: "",
+    demo: "shobox.in",
     image: realEstate,
   },
   {
     id: 4,
-    name: "MERN-Stack-User-Authentication-Page",
+    name: "A course selling Platform",
     description:
-      "This project implements a robust MERN-stack user authentication system featuring login, registration, and profile management functionalities. It provides a comprehensive solution for handling user authentication and data management with a modern UI.",
-    tools: ["React", "MongoDB", "Express", "Node"],
+      "This project Is done using wordpress and php and vimeo video tool.",
+    tools: ["Vimeo", "Php", "Wordpress", "Laravel" , "Html" , "Css"],
     code: "",
-    demo: "",
+    demo: "courseweb.in",
     image: ayla,
     role: "Full Stack Developer",
-  },
+  }
 ];
 
 // Do not remove any property.
